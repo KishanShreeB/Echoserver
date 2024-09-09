@@ -57,8 +57,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/483bef49-e997-4cf7-aed9-d7b121a44741)
-![image](https://github.com/user-attachments/assets/ca7b0e59-73fe-48de-945d-e5313ef1dc14)
+![image](https://github.com/user-attachments/assets/c84e405c-f104-4b1e-9380-4be2b9fb8c74)
+![image](https://github.com/user-attachments/assets/77819183-8581-4dfe-8d61-87f877e4a35d)
 
 
 
